@@ -26,7 +26,7 @@
 }
 
 .modal-content {
-  background-color: white;
+  background-color: rgba(104, 218, 226, 0.973);
   padding: 2rem;
   border-radius: 5px;
   position: relative;
